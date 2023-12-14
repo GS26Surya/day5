@@ -9,3 +9,11 @@ Welcome to the JavaScript Loops Overview! This README provides a brief explanati
 - [ForEach Loop](#foreach-loop)
 - [For-Of Loop](#for-of-loop)
 
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- [GitHub](https://github.com/Suryaprakash-G26)
+- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+
+Happy coding! 🚀
